@@ -79,5 +79,5 @@ async def sendMessage(msg, pic=None, buttons=None):
             logging.warning(e)
 
 
-logging.info("\n\nStarted. Join @BotzHub if you liked the bot!\n(c) @xditya")
+logging.info("\n\nStarted. Join @RobotRoom if you liked the bot!\n(c) @KenanBitcoin")
 bot.loop.run_until_complete(get_updates())
